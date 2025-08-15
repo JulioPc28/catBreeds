@@ -25,8 +25,7 @@ Además, se incorpora un acceso directo a la página de **Wikipedia** de cada ra
 - **Sizer** para diseño responsivo
 - **TheCatAPI** como fuente de datos
 - **Google Fonts** y estilos personalizados
-- **GitHub Pages** (opcional para documentación o demo web)
-
+  
 ---
 
 ### 📦 Instalación
