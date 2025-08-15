@@ -58,4 +58,8 @@ flutter run
 
 ### 🎬 Video Corto
 
-🎬 [Ver demo en video](https://github.com/tu-usuario/tu-repo/blob/main/assets/demo.mp4)
+ <p align="center">
+  <a href="https://www.youtube.com/watch?v=kor5yrCCLvQ" target="_blank">
+    <img src="https://img.youtube.com/vi/kor5yrCCLvQ/0.jpg" alt="Demo Video" width="400"/>
+  </a>
+</p>
