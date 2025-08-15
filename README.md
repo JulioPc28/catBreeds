@@ -40,23 +40,6 @@ flutter run
 
 ---
 
-### 📚 Estructura del proyecto
-
-```
-lib/
-├── pages/
-│   ├── cat_detail_screen.dart
-│   ├── componentes_onboarning/
-│   │   ├── appbar.dart
-│   │   ├── image_cat.dart
-│   │   ├── contenido_cat.dart
-├── widgets/
-│   ├── text_input_cat.dart
-│   ├── text_input_cat_parrafo.dart
-│   ├── nivel_caracteristica.dart
-```
-
----
 
 ### ✨ Autor
 
