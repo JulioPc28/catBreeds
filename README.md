@@ -56,4 +56,6 @@ flutter run
 
 ---
 
+### 🎬 Video Corto
 
+🎬 [Ver demo en video](https://github.com/tu-usuario/tu-repo/blob/main/assets/demo.mp4)
