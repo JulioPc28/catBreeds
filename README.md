@@ -59,7 +59,7 @@ flutter run
 ### 🎬 Video Corto
 
  <p align="center">
-  <a href="https://www.youtube.com/watch?v=kor5yrCCLvQ" target="_blank">
-    <img src="https://img.youtube.com/vi/kor5yrCCLvQ/0.jpg" alt="Demo Video" width="400"/>
+  <a href="https://www.youtube.com/watch?v=DPLj-cyauA4" target="_blank">
+    <img src="https://img.youtube.com/vi/DPLj-cyauA4/0.jpg" alt="Demo Video" width="400"/>
   </a>
 </p>
